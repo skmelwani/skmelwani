@@ -1,5 +1,5 @@
 # 💫 About Me:
-Master’s student in Data Science at Philipps-University Marburg with <br>a solid background in machine learning, data analysis, and <br>Python programming. <br><br>Completed academic and project work in <br>computer vision and natural language processing, with experience <br>working in collaborative and international environments. <br><br>Interested in exploring how AI methods, including early <br>concepts of agentic AI and autonomous AI workflows.<br>
+Master’s student in Data Science at Philipps-University Marburg with a solid background in machine learning, data analysis, and Python programming.<br>Completed academic and project work in computer vision and natural language processing, with experience working in collaborative and international environments. <br>Interested in exploring how AI methods, including early concepts of agentic AI and autonomous AI workflows.<br>
 
 
 ## 🌐 Socials:
